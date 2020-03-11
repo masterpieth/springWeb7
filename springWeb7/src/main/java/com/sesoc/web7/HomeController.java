@@ -11,5 +11,8 @@ public class HomeController {
 	public String main() {
 		return "main";
 	}
-	
+	@RequestMapping(value = "/", method = RequestMethod.GET)
+	public String jsoupTest() {
+		return "jsoupTest";
+	}
 }

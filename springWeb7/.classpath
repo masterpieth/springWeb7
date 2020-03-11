@@ -55,5 +55,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/pieTH/Downloads/jsoup-1.13.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/pieTH/Downloads/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pieTH/Downloads/kkma-2.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
